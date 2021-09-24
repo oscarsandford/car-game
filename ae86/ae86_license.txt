@@ -1,0 +1,4 @@
+model AE86 credit to:
+Daniel Zhabotinsky (https://sketchfab.com/3d-models/toyota-ae86-trueno-initial-d-spec-59a0eaaa2af144b2956957e7032d0221)
+under 
+https://creativecommons.org/licenses/by/4.0/

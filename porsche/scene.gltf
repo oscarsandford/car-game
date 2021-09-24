@@ -1,0 +1,677 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4667,
+      "max": [
+        1.8175513744354248,
+        1.721646785736084,
+        6.6438627243041992
+      ],
+      "min": [
+        -2.4509098529815674,
+        -0.97457027435302734,
+        -3.2898595333099365
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 56004,
+      "componentType": 5126,
+      "count": 4667,
+      "max": [
+        1,
+        0.99996709823608398,
+        0.99985659122467041
+      ],
+      "min": [
+        -1,
+        -1,
+        -0.99948763847351074
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4667,
+      "max": [
+        0.94921869039535522,
+        0.94140619039535522
+      ],
+      "min": [
+        0.052602529525756836,
+        0.17968755960464478
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 7251,
+      "max": [
+        4666
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 112008,
+      "componentType": 5126,
+      "count": 1442,
+      "max": [
+        0.29650330543518066,
+        0.77609002590179443,
+        0.77609086036682129
+      ],
+      "min": [
+        -0.2948993444442749,
+        -0.77608931064605713,
+        -0.77608847618103027
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 129312,
+      "componentType": 5126,
+      "count": 1442,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 37336,
+      "componentType": 5126,
+      "count": 1442,
+      "max": [
+        0.94140625,
+        0.93359375
+      ],
+      "min": [
+        0.30468752980232239,
+        0.91796875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 29004,
+      "componentType": 5125,
+      "count": 2292,
+      "max": [
+        1441
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 146616,
+      "componentType": 5126,
+      "count": 1442,
+      "max": [
+        0.29650330543518066,
+        0.77609002590179443,
+        0.77609086036682129
+      ],
+      "min": [
+        -0.2948993444442749,
+        -0.77608931064605713,
+        -0.77608847618103027
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 163920,
+      "componentType": 5126,
+      "count": 1442,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 48872,
+      "componentType": 5126,
+      "count": 1442,
+      "max": [
+        0.94140625,
+        0.93359375
+      ],
+      "min": [
+        0.30468752980232239,
+        0.91796875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 38172,
+      "componentType": 5125,
+      "count": 2292,
+      "max": [
+        1441
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 181224,
+      "componentType": 5126,
+      "count": 1442,
+      "max": [
+        0.29650330543518066,
+        0.77609002590179443,
+        0.77609086036682129
+      ],
+      "min": [
+        -0.2948993444442749,
+        -0.77608931064605713,
+        -0.77608847618103027
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 198528,
+      "componentType": 5126,
+      "count": 1442,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 60408,
+      "componentType": 5126,
+      "count": 1442,
+      "max": [
+        0.94140625,
+        0.93359375
+      ],
+      "min": [
+        0.30468752980232239,
+        0.91796875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 47340,
+      "componentType": 5125,
+      "count": 2292,
+      "max": [
+        1441
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 215832,
+      "componentType": 5126,
+      "count": 1442,
+      "max": [
+        0.29650330543518066,
+        0.77609002590179443,
+        0.77609086036682129
+      ],
+      "min": [
+        -0.2948993444442749,
+        -0.77608931064605713,
+        -0.77608847618103027
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 233136,
+      "componentType": 5126,
+      "count": 1442,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 71944,
+      "componentType": 5126,
+      "count": 1442,
+      "max": [
+        0.94140625,
+        0.93359375
+      ],
+      "min": [
+        0.30468752980232239,
+        0.91796875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 56508,
+      "componentType": 5125,
+      "count": 2292,
+      "max": [
+        1441
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "demuriagt (https://sketchfab.com/demuriagt)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/lowpoly-car-porsche-911-lookalike-298325a7702a47f993ed8e7c1ac03313",
+      "title": "Lowpoly Car Porsche 911 Lookalike"
+    },
+    "generator": "Sketchfab-10.37.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 65676,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 83480,
+      "byteOffset": 65676,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 250440,
+      "byteOffset": 149156,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 399596,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/palette_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "palette",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.83999999999999997
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Porsche 911_palette_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Porsche Wheel FR_palette_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Porsche Wheel RR_palette_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Porsche Wheel FL_palette_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Porsche Wheel RL_palette_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "94c74d5369f04819a0205ec688fb82d3.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        6,
+        8,
+        10,
+        12
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -26.585824966430664,
+        1.5536439418792725,
+        12.981225967407227,
+        1
+      ],
+      "name": "Porsche 911"
+    },
+    {
+      "mesh": 0,
+      "name": "Porsche 911_palette_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -2.0097503662109375,
+        -0.53457391262054443,
+        4.4879093170166016,
+        1
+      ],
+      "name": "Porsche Wheel FR"
+    },
+    {
+      "mesh": 1,
+      "name": "Porsche Wheel FR_palette_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -2.0097503662109375,
+        -0.53457391262054443,
+        -0.73215007781982422,
+        1
+      ],
+      "name": "Porsche Wheel RR"
+    },
+    {
+      "mesh": 2,
+      "name": "Porsche Wheel RR_palette_0"
+    },
+    {
+      "children": [
+        11
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1.3733901977539062,
+        -0.53457391262054443,
+        4.4879093170166016,
+        1
+      ],
+      "name": "Porsche Wheel FL"
+    },
+    {
+      "mesh": 3,
+      "name": "Porsche Wheel FL_palette_0"
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1.3733901977539062,
+        -0.53457391262054443,
+        -0.73215007781982422,
+        1
+      ],
+      "name": "Porsche Wheel RL"
+    },
+    {
+      "mesh": 4,
+      "name": "Porsche Wheel RL_palette_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+
