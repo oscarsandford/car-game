@@ -1,0 +1,34 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://src/car/ae86.tscn" type="PackedScene" id=1]
+[ext_resource path="res://src/car/CarCamera.gd" type="Script" id=2]
+
+[sub_resource type="SpatialMaterial" id=3]
+albedo_color = Color( 0.345098, 0.345098, 0.345098, 1 )
+
+[sub_resource type="CubeMesh" id=2]
+material = SubResource( 3 )
+
+[sub_resource type="BoxShape" id=1]
+extents = Vector3( 100, 0.1, 100 )
+
+[node name="Main" type="Spatial"]
+
+[node name="plane" type="StaticBody" parent="."]
+
+[node name="mesh" type="MeshInstance" parent="plane"]
+transform = Transform( 100, 0, 0, 0, 0.1, 0, 0, 0, 100, 0, 0, 0 )
+mesh = SubResource( 2 )
+material/0 = null
+
+[node name="shape" type="CollisionShape" parent="plane"]
+shape = SubResource( 1 )
+
+[node name="ae86" parent="." instance=ExtResource( 1 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 8.84245, 0 )
+
+[node name="KCamera" type="Camera" parent="."]
+current = true
+script = ExtResource( 2 )
+
+[connection signal="change_camera" from="ae86" to="KCamera" method="_on_ae86t_change_camera"]

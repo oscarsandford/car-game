@@ -1,0 +1,19 @@
+# VSCode settings
+.vscode
+
+# Godot import folder and asset file imports
+.import
+**/*.import
+
+# Mono & C# artifacts
+.mono
+Properties
+*.csproj
+*.sln
+
+# Export configurations
+#export*
+
+# Other
+
+/assets/tmp

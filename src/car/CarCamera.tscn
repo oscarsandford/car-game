@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://src/car/CarCamera.gd" type="Script" id=1]
+
+[node name="CarCamera" type="ClippedCamera"]
+transform = Transform( 1, 0, 0, 0, 0.989018, 0.147792, 0, -0.147792, 0.989018, 0, 9.64168, 11.5767 )
+script = ExtResource( 1 )
